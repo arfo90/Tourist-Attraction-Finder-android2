@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  
+    >
+    <TextView
+    android:id= "@+id/mm_text"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    
+    />
+    
+	<RelativeLayout android:layout_height="wrap_content"  android:layout_width="fill_parent" android:id="@+id/relativeLayout1">
+		<Button android:layout_height="wrap_content"
+		 android:paddingLeft="8px" 
+		 android:text="Find Nearby Places"
+		 android:id="@+id/find_nearby" 
+		 android:drawableTop="@drawable/map_icon1"
+		 android:layout_width="wrap_content"
+		 android:background="#00FFFFFF"
+		 android:layout_alignParentTop="true"
+		 android:textStyle="bold"
+		 android:textColor="#BABABA"></Button>
+		       
+		<Button android:layout_height="wrap_content" 
+		android:paddingRight="15px" 
+		android:text="Find your Place"
+	    android:id="@+id/navigation"
+		android:drawableTop="@drawable/browser_rs"
+		android:layout_width="wrap_content"
+		android:background="#00FFFFFF" 
+		android:layout_alignParentRight="true"
+		android:textStyle="bold" 
+		android:paddingTop="13px"
+		android:textColor="#BABABA"></Button>
+		     
+	</RelativeLayout>
+	<RelativeLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/relativeLayout2">
+		<Button android:text="Search Places" android:paddingLeft="25px" android:paddingTop="18px" android:layout_width="wrap_content" android:id="@+id/serach_place" android:drawableTop="@drawable/search1" android:layout_height="wrap_content" android:background="#00FFFFFF" android:layout_alignParentTop="true"  android:textColor="#BABABA" android:textStyle="bold" ></Button>
+	</RelativeLayout> 
+	
+	
+</LinearLayout>
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resources> 
+ 
+  <string-array name="tourist_poi_category">
+    <item>Art gallery</item>
+    <item>Museum</item>
+    <item>Amusement park</item>
+    <item>Night club</item>
+    <item>Zoo</item>
+  </string-array>
+ 
+
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    > 
+    
+    <TextView
+    android:id = "@+id/title1_text"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content" 
+	android:textStyle="bold"
+	android:textColor="#fffff0"
+     /> 
+     
+     
+     <TextView
+    android:id = "@+id/address1_text"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content" 
+	android:textColor="#fffff0"
+     />
+     <Button android:layout_height="wrap_content" 
+     android:id="@+id/map_poi_button"
+     android:layout_width="fill_parent" 
+     android:paddingTop="10px"
+     android:text="See map and  more information!" 
+     android:paddingLeft="10px"
+     ></Button> 
+     
+     
+  
+    
+     
+     
+    </LinearLayout>

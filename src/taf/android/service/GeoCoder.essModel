@@ -1,0 +1,22 @@
+[Box: ::taf.android.service - ::taf.android.service::_jsonparser]
+X=20
+Y=40
+
+[Box: ::taf.android.service - ::taf.android.service::GeoCoder]
+X=647
+Y=40
+
+[Box: ::taf.android.service - ::taf.android.service::HttpRetriver]
+X=438
+Y=40
+
+[Box: ::taf.android.service - ::taf.android.service::XmlParser]
+X=229
+Y=40
+
+[Diagram: ::taf.android.service]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+

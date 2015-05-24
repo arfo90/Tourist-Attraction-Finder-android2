@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    > 
+     <TextView
+    android:id = "@+id/user_finder_text"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content" 
+	android:text = "Select" 
+     /> 
+     <Button 
+     android:id ="@+id/retrieve_location_button"
+     android:layout_width="wrap_content"
+	 android:layout_height="wrap_content"
+     android:text = "Retrieve Location"
+     /> 
+  
+    <Button 
+     android:id ="@+id/reverse_geocoding_button"
+     android:layout_width="wrap_content"
+	 android:layout_height="wrap_content"
+     android:text = "Find the Address"
+     /> 
+     
+     <Button
+     android:id ="@+id/map_button"
+     android:layout_width = "wrap_content"
+     android:layout_height = "wrap_content"
+     android:text = "Show me on the map"
+     /> 
+     <TextView
+    android:id = "@+id/address_text"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content" 
+	android:textStyle="bold"
+	android:textColor="#BABABA"
+     /> 
+     
+    </LinearLayout>

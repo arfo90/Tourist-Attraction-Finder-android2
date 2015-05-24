@@ -1,0 +1,90 @@
+[Box: ::taf.main - ::<<Unknown>>::Activity]
+X=2064
+Y=51
+
+[Box: ::taf.main - ::<<Unknown>>::AsyncTask]
+X=562
+Y=42
+
+[Box: ::taf.main - ::<<Unknown>>::ListActivity]
+X=266
+Y=35
+
+[Box: ::taf.main - ::<<Unknown>>::LocationListener]
+X=254
+Y=411
+
+[Box: ::taf.main - ::<<Unknown>>::MapActivity]
+X=517
+Y=403
+
+[Box: ::taf.main - ::taf.main::_nearby_result_Activity]
+X=20
+Y=213
+
+[Box: ::taf.main - ::taf.main::_nearby2]
+X=218
+Y=204
+
+[Box: ::taf.main - ::taf.main::_nearby2.MyLocationListener]
+X=514
+Y=481
+
+[Box: ::taf.main - ::taf.main::deatels_Activity]
+X=1829
+Y=214
+
+[Box: ::taf.main - ::taf.main::GeoCodeResult]
+X=20
+Y=40
+
+[Box: ::taf.main - ::taf.main::navigating_user]
+X=534
+Y=210
+
+[Box: ::taf.main - ::taf.main::navigating_user.MyLocationListener]
+X=268
+Y=485
+
+[Box: ::taf.main - ::taf.main::nearby_places]
+X=2045
+Y=282
+
+[Box: ::taf.main - ::taf.main::nearby_places.MyLocationListener]
+X=11
+Y=482
+
+[Box: ::taf.main - ::taf.main::search_place_Activity]
+X=1826
+Y=110
+
+[Box: ::taf.main - ::taf.main::Taf]
+X=1828
+Y=349
+
+[Box: ::taf.main - ::taf.main::touristAttraction_Activity]
+X=2082
+Y=130
+
+[Box: ::taf.main - ::taf.main::transportation_Activity]
+X=2387
+Y=47
+
+[Box: ::taf.main - ::taf.main::user_finder]
+X=2377
+Y=196
+
+[Box: ::taf.main - ::taf.main::user_finder.MyLocationListener]
+X=20
+Y=369
+
+[Box: ::taf.main - ::taf.main::user_finder.ReverseGeocodeLookupTask]
+X=532
+Y=142
+
+[Diagram: ::taf.main]
+OffsetX=0
+OffsetY=1645
+Visibility=0
+ShowAssoc=0
+

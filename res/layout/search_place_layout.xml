@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Please enter place name or address"
+    />
+<EditText
+	android:id="@+id/address"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+	android:autoText="true"
+	android:hint="Enter place name here!" 
+	/>
+	
+<Button
+	android:id="@+id/launchmap"
+    android:layout_width="wrap_content" 
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:text="Find the place"
+    android:drawableLeft="@drawable/pin1"
+    /> 
+
+</LinearLayout>
